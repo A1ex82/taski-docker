@@ -9,7 +9,7 @@ SECRET_KEY = (
     '-p@on1_^'
 )
 
-DEBUG = True
+DEBUG = False
 ALLOWED_HOSTS = ['127.0.0.1', 'localhost', '51.250.98.101', 'tasking.hopto.org']
 
 
